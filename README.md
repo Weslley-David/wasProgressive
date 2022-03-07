@@ -3,8 +3,9 @@ Bot para gerência de projetos e trabalhos em grupo através do Discord. Para sa
 
 ## Bibliotecas
 
-[windows] py -3 -m pip install -U discord.py
-[outros] python3 -m pip install -U discord.py
+[windows]-> py -3 -m pip install -U discord.py
+
+[outros]-> python3 -m pip install -U discord.py
 
 ## Guia:
 
