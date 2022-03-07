@@ -3,7 +3,7 @@ Bot para gerência de projetos e trabalhos em grupo através do Discord. Para sa
 
 ## Bibliotecas
 
-###Discord.py
+### Discord.py
 
 [windows]-> py -3 -m pip install -U discord.py
 
