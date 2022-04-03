@@ -17,7 +17,10 @@ class MyClient(discord.Client):
         if message.content == 'teste':
             await message.channel.send('mensagem padrão retornada.')
         elif message.content == 'teste 2':
-            retorno = 'mensagem por função retornada: ' + str(self.teste())
+            retorno = '```fix\ntexto teste\n```' + str(self.teste())
+            await message.channel.send(retorno)
+        elif message.content == 'teste 3':
+            retorno = '```diff\n+ texto verde\n```' + str(self.teste())
             await message.channel.send(retorno)
 
 
