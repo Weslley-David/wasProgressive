@@ -1,17 +1,5 @@
 # ProgressiveBot
-Bot para gerência de projetos e trabalhos em grupo através do Discord. Para saber mais, clique [aqui](https://progressivebot.netlify.app). : )
-
-## Bibliotecas
-
-### Discord.py
-
-[windows]-> py -3 -m pip install -U discord.py
-
-[outros]-> python3 -m pip install -U discord.py
-
-## Guia:
-
-Informações sobre como usar o bot serão adicionadas aqui assim que o projeto for concluído. Aguarde e torça por nós. <i>UwU</i>
+Plataforma para gerência de projetos e trabalhos em grupo. Para saber mais, clique [aqui](https://progressivebot.netlify.app). : )
 
 ## Responsáveis:
 
