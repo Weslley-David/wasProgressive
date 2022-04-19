@@ -1,4 +1,4 @@
-# ProgressiveBot
+# Progressive
 Plataforma para gerência de projetos e trabalhos em grupo. Para saber mais, clique [aqui](https://progressivebot.netlify.app). : )
 
 ## Protótipo Figma:
